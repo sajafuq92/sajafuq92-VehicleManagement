@@ -1,0 +1,17 @@
+C:\Users\Saja Alfuqaha\source\repos\VehicleManagement\VehicleManagement.Services\bin\Debug\net8.0\VehicleManagement.Services.deps.json
+C:\Users\Saja Alfuqaha\source\repos\VehicleManagement\VehicleManagement.Services\bin\Debug\net8.0\VehicleManagement.Services.dll
+C:\Users\Saja Alfuqaha\source\repos\VehicleManagement\VehicleManagement.Services\bin\Debug\net8.0\VehicleManagement.Services.pdb
+C:\Users\Saja Alfuqaha\source\repos\VehicleManagement\VehicleManagement.Services\bin\Debug\net8.0\VehicleManagement.Common.dll
+C:\Users\Saja Alfuqaha\source\repos\VehicleManagement\VehicleManagement.Services\bin\Debug\net8.0\VehicleManagement.Data.dll
+C:\Users\Saja Alfuqaha\source\repos\VehicleManagement\VehicleManagement.Services\bin\Debug\net8.0\VehicleManagement.Common.pdb
+C:\Users\Saja Alfuqaha\source\repos\VehicleManagement\VehicleManagement.Services\bin\Debug\net8.0\VehicleManagement.Data.pdb
+C:\Users\Saja Alfuqaha\source\repos\VehicleManagement\VehicleManagement.Services\obj\Debug\net8.0\VehicleManagement.Services.csproj.AssemblyReference.cache
+C:\Users\Saja Alfuqaha\source\repos\VehicleManagement\VehicleManagement.Services\obj\Debug\net8.0\VehicleManagement.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saja Alfuqaha\source\repos\VehicleManagement\VehicleManagement.Services\obj\Debug\net8.0\VehicleManagement.Services.AssemblyInfoInputs.cache
+C:\Users\Saja Alfuqaha\source\repos\VehicleManagement\VehicleManagement.Services\obj\Debug\net8.0\VehicleManagement.Services.AssemblyInfo.cs
+C:\Users\Saja Alfuqaha\source\repos\VehicleManagement\VehicleManagement.Services\obj\Debug\net8.0\VehicleManagement.Services.csproj.CoreCompileInputs.cache
+C:\Users\Saja Alfuqaha\source\repos\VehicleManagement\VehicleManagement.Services\obj\Debug\net8.0\VehicleM.87530A01.Up2Date
+C:\Users\Saja Alfuqaha\source\repos\VehicleManagement\VehicleManagement.Services\obj\Debug\net8.0\VehicleManagement.Services.dll
+C:\Users\Saja Alfuqaha\source\repos\VehicleManagement\VehicleManagement.Services\obj\Debug\net8.0\refint\VehicleManagement.Services.dll
+C:\Users\Saja Alfuqaha\source\repos\VehicleManagement\VehicleManagement.Services\obj\Debug\net8.0\VehicleManagement.Services.pdb
+C:\Users\Saja Alfuqaha\source\repos\VehicleManagement\VehicleManagement.Services\obj\Debug\net8.0\ref\VehicleManagement.Services.dll

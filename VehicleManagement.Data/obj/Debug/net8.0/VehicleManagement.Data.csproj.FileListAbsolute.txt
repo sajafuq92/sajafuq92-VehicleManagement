@@ -1,0 +1,12 @@
+C:\Users\Saja Alfuqaha\source\repos\VehicleManagement\VehicleManagement.Data\bin\Debug\net8.0\VehicleManagement.Data.deps.json
+C:\Users\Saja Alfuqaha\source\repos\VehicleManagement\VehicleManagement.Data\bin\Debug\net8.0\VehicleManagement.Data.dll
+C:\Users\Saja Alfuqaha\source\repos\VehicleManagement\VehicleManagement.Data\bin\Debug\net8.0\VehicleManagement.Data.pdb
+C:\Users\Saja Alfuqaha\source\repos\VehicleManagement\VehicleManagement.Data\obj\Debug\net8.0\VehicleManagement.Data.csproj.AssemblyReference.cache
+C:\Users\Saja Alfuqaha\source\repos\VehicleManagement\VehicleManagement.Data\obj\Debug\net8.0\VehicleManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saja Alfuqaha\source\repos\VehicleManagement\VehicleManagement.Data\obj\Debug\net8.0\VehicleManagement.Data.AssemblyInfoInputs.cache
+C:\Users\Saja Alfuqaha\source\repos\VehicleManagement\VehicleManagement.Data\obj\Debug\net8.0\VehicleManagement.Data.AssemblyInfo.cs
+C:\Users\Saja Alfuqaha\source\repos\VehicleManagement\VehicleManagement.Data\obj\Debug\net8.0\VehicleManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\Saja Alfuqaha\source\repos\VehicleManagement\VehicleManagement.Data\obj\Debug\net8.0\VehicleManagement.Data.dll
+C:\Users\Saja Alfuqaha\source\repos\VehicleManagement\VehicleManagement.Data\obj\Debug\net8.0\refint\VehicleManagement.Data.dll
+C:\Users\Saja Alfuqaha\source\repos\VehicleManagement\VehicleManagement.Data\obj\Debug\net8.0\VehicleManagement.Data.pdb
+C:\Users\Saja Alfuqaha\source\repos\VehicleManagement\VehicleManagement.Data\obj\Debug\net8.0\ref\VehicleManagement.Data.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7GFBwcEQ2BHVun3Naouj/7EZ4I+YOaP35LfN5ZMF3pQ=",
+  "Source": "VehicleManagement.API",
+  "BasePath": "_content/VehicleManagement.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
