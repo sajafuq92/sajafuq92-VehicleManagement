@@ -2,7 +2,7 @@
 
 Hi Dear,
 
-VehicleManagement projects built on.net 8 so you must be sure to install .net 8 in your PC.
+VehicleManagement projects built on.net 8 so make sure to install .net 8 in your PC.
 Download sorurce code then open VehicleManagement.sln, rebuild solution
 
 
